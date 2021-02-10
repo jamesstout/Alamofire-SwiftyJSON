@@ -24,6 +24,5 @@ let package = Package(
     ],
     targets: [
         .target(name: "Alamofire-SwiftyJSON", dependencies: ["SwiftyJSON", "Alamofire"])
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
