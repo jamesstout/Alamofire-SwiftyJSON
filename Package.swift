@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.0
 
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
